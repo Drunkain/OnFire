@@ -35910,3 +35910,17 @@ Make sure 'BP_CameraManager_C' has been compiled for  Get Camera
 [2020.04.18-12.31.46:320][273]LogSavePackage: Moving 'G:/FireWC/OnFire/Saved/FeuerMap_Auto4E9E8913B4440D3D98D86DEAB53AD8F4E.tmp' to 'G:/FireWC/OnFire/Saved/Autosaves/Game/Maps/FeuerMap_Auto4.umap'
 [2020.04.18-12.31.46:321][273]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/FeuerMap' took 0.066
 [2020.04.18-12.31.46:321][273]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.066
+[2020.04.18-12.32.44:454][816]LogHoudiniEngine: Error: Hapi failed: 
+[2020.04.18-12.32.59:363][499]SourceControl: fatal: X:/UE4/UE_4.24/Engine/Content/Maps/Entry.umap: 'X:/UE4/UE_4.24/Engine/Content/Maps/Entry.umap' is outside repository
+[2020.04.18-12.32.59:363][499]SourceControl: fatal: X:/UE4/UE_4.24/Engine/Content/Maps/Templates: 'X:/UE4/UE_4.24/Engine/Content/Maps/Templates' is outside repository
+[2020.04.18-12.32.59:804][543]SourceControl: fatal: /Script: '/Script' is outside repository
+[2020.04.18-12.33.01:416][715]SourceControl: fatal: X:/UE4/UE_4.24/Engine/Content/Maps/Entry.umap: 'X:/UE4/UE_4.24/Engine/Content/Maps/Entry.umap' is outside repository
+[2020.04.18-12.33.01:416][715]SourceControl: fatal: X:/UE4/UE_4.24/Engine/Content/Maps/Templates: 'X:/UE4/UE_4.24/Engine/Content/Maps/Templates' is outside repository
+[2020.04.18-12.33.03:065][897]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/FeuerMap" FILE="G:/FireWC/OnFire/Content/Maps/FeuerMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.04.18-12.33.03:112][897]LogUObjectHash: Compacting FUObjectHashTables data took   2.75ms
+[2020.04.18-12.33.03:126][897]LogSavePackage: Moving 'G:/FireWC/OnFire/Saved/FeuerMapE6DA7CC34C0E9B69B4C5AFABB05E3227.tmp' to 'G:/FireWC/OnFire/Content/Maps/FeuerMap.umap'
+[2020.04.18-12.33.03:310][897]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/FeuerMap_BuiltData" FILE="G:/FireWC/OnFire/Content/Maps/FeuerMap_BuiltData.uasset" SILENT=true
+[2020.04.18-12.33.03:416][897]LogSavePackage: Moving 'G:/FireWC/OnFire/Saved/FeuerMap_BuiltData1EAF801241397F38FFABDC82DA7A15E1.tmp' to 'G:/FireWC/OnFire/Content/Maps/FeuerMap_BuiltData.uasset'
+[2020.04.18-12.33.03:435][897]AssetCheck: New page: Asset Save: multiple assets
+[2020.04.18-12.33.03:435][897]LogContentValidation: Display: Validating World /Game/Maps/FeuerMap.FeuerMap
+[2020.04.18-12.33.03:435][897]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/FeuerMap_BuiltData.FeuerMap_BuiltData

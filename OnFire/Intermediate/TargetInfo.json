@@ -2,12 +2,12 @@
 	"Targets": [
 		{
 			"Name": "OnFire",
-			"Path": "D:\\Data\\Mes documents\\OnFire\\OnFire\\Source\\OnFire.Target.cs",
+			"Path": "G:\\FireWC\\OnFire\\Source\\OnFire.Target.cs",
 			"Type": "Game"
 		},
 		{
 			"Name": "OnFireEditor",
-			"Path": "D:\\Data\\Mes documents\\OnFire\\OnFire\\Source\\OnFireEditor.Target.cs",
+			"Path": "G:\\FireWC\\OnFire\\Source\\OnFireEditor.Target.cs",
 			"Type": "Editor"
 		}
 	]

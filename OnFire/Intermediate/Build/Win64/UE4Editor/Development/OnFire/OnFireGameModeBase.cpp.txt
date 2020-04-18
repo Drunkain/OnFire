@@ -1,7 +1,0 @@
-G:\FireWC\OnFire\Intermediate\Build\Win64\UE4Editor\Development\OnFire\Definitions.OnFire.h
-g:\firewc\onfire\source\onfire\OnFireGameModeBase.h
-X:\UE4\UE_4.24\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
-X:\UE4\UE_4.24\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
-X:\UE4\UE_4.24\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
-X:\UE4\UE_4.24\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
-G:\FireWC\OnFire\Intermediate\Build\Win64\UE4Editor\Inc\OnFire\OnFireGameModeBase.generated.h

@@ -1,2 +1,0 @@
-G:\FireWC\OnFire\Intermediate\Build\Win64\UE4Editor\Development\OnFire\Definitions.OnFire.h
-g:\firewc\onfire\source\onfire\OnFire.h
